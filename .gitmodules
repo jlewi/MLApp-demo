@@ -1,0 +1,8 @@
+[submodule "MLapp"]
+	path = MLapp
+	url = git@github.com:jlewi/MLapp.git
+	branch = fairing
+[submodule "fairing"]
+	path = fairing
+	url = git@github.com:jlewi/fairing.git
+	branch = label_demo
